@@ -83,11 +83,11 @@ To run the notebook:
 
 ### 👨‍💻 Meet the Team
 
-- **Mohamed Ismail** - *Machine Learning Engineer* - [GitHub Profile](https://github.com/mohamed-ismail)
+- **Mohamed Ismail** - *Machine Learning Engineer* - [GitHub Profile](https://github.com/Som3a99)
 - **Kirollos Eisa** - *Machine Learning Engineer* - [GitHub Profile](https://github.com/kirollos-eisa)
 
 ---
 
-For any questions or feedback, please contact Mohamed Ismail at [mohamed.ismail@example.com] or Kirollos Eisa at [kirollos.eisa@example.com].
+For any questions or feedback, please contact Mohamed Ismail at [Mohamed_EMohamed@outlook.com] or Kirollos Eisa at [kirollos.eisa@example.com].
 
 [![Made with ❤️ in Egypt](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in-Egypt-green.svg)](https://your-project-website.com)
