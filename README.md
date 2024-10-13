@@ -10,8 +10,6 @@ This project is proudly submitted as part of the graduation requirements for the
 
 DeepSeaVision is a cutting-edge machine learning solution designed to identify and classify various types of trash in underwater environments. Our mission is to contribute to ocean cleanup efforts by providing a powerful tool that can accurately detect and categorize marine debris.
 
-![Underwater Trash Detection Demo](https://your-image-url.com/underwater-detection-demo.gif)
-
 #### 🌟 Key Features
 
 - 🔍 Real-time object detection of underwater trash
@@ -28,22 +26,6 @@ DeepSeaVision is a cutting-edge machine learning solution designed to identify a
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
-
-### Repository Structure:
-
-project-root/
-│
-├── notebooks/
-│   └── model_training.ipynb
-│
-├── src/
-│   ├── model.py
-│   └── main.py
-|
-├── requirements.txt
-├── index.html
-├── trained_model.pt
-└── README.md
 
 ### 💻 Installation
 
@@ -93,14 +75,6 @@ To run the notebook:
 1. Ensure you have Jupyter installed (`pip install jupyter` if not).
 2. Navigate to the `notebooks` directory.
 3. Run `jupyter notebook` and open `model_training.ipynb`.
-
-### 🧪 Testing
-
-To run the test suite:
-
-```
-python -m unittest discover tests
-```
 
 ### 🙏 Acknowledgements
 
