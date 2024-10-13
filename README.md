@@ -22,9 +22,6 @@ DeepSeaVision is a cutting-edge machine learning solution designed to identify a
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Training](#model-training)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ### 💻 Installation
@@ -33,7 +30,7 @@ To set up DeepSeaVision on your local machine, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/deepseavision.git
+   git clone https://github.com/Som3a99/deepseavision.git
    cd deepseavision
    ```
 
@@ -79,7 +76,6 @@ To run the notebook:
 ### 🙏 Acknowledgements
 
 - 🏆 DEPI Digital Egypt Pioneers Initiative for their support and guidance
-- 🌍 [List any other organizations or individuals who contributed to the project]
 
 ### 👨‍💻 Meet the Team
 
