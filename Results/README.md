@@ -6,10 +6,7 @@ This README compares the performance of YOLOv8x and Fast R-CNN models on the Tra
 
 ### Video Demo
 
-<video width="640" height="360" controls>
-  <source src="YOLO_result.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/20eaf90f-70fd-446c-8cad-35d9c5f6e19e
 
 ### Performance Metrics
 
