@@ -57,6 +57,7 @@ To use DeepSeaVision:
 3. Follow the on-screen instructions to upload an image or start live detection.
 
 ![DeepSeaVision Interface](Interface.jpeg)
+![DeepSeaVision main screen](mainscreen.jpeg)
 
 ### 🧠 Model Training
 

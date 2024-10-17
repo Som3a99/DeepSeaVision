@@ -5,7 +5,7 @@ import numpy as np
 class TrashCanModel:
     def __init__(self):
         # Load the trained model
-        self.model = YOLO('yolov8_trained_model.pt')
+        self.model = YOLO('YOLO.pt')
 
     def predict(self, image):
         # Resize image to 640x640
